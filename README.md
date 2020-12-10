@@ -11,5 +11,3 @@ A simple discord bot that will check a message sent in a guild. If said message 
   * You **must** edit/add the .env file with **your own** unique key in order for this bot to work. [Discord Dev Portal](https://discord.com/developers/applications)
   * DISCORD_TOKEN=your-token
  
- 
-[Link to a short video explanation by me](https://www.youtube.com/channel/UCMrDtq9Mn467BDrrgwPwjpw/)
